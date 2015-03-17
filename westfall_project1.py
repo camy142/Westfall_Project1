@@ -70,9 +70,6 @@ def disconnect(ftpObj):
     return True
 
 
-#hi
-
-
 
 #MAKE SURE THIS IS THE END OF THE DOCUMENT. DO NOT MOVE OR ADD AFTER THIS POINT*********************************************************************
 main()
